@@ -1,3 +1,20 @@
+<!--
+ABREVIATURAS
+tv_ para TextView (Etiquetas de texto).
+et_ para EditText (Campos donde el usuario escribe).
+btn_ para Button
+-->
+
 <resources>
+    <!-- GLOBAL -->
     <string name="app_name">Mobile_club_deportivo</string>
+
+    <!-- PANTALLA LOGIN -->
+    <string name="login_tv_bienvenida">Bienvenido a la app móvil del club deportivo</string>
+    <string name="login_tv_usuario">Usuario</string>
+    <string name="login_tv_clave">Contraseña</string>
+    <string name="login_et_hint_usuario">Ingrese su usuario</string>
+    <string name="login_et_hint_clave">Ingrese su contraseña</string>
+    <string name="login_btn_login">Login</string>
+
 </resources>
