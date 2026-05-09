@@ -29,7 +29,8 @@
         android:minWidth="300dp"
         android:layout_gravity="center_horizontal"
         android:orientation="vertical"
-        android:gravity="center">
+        android:gravity="center"
+        android:background="@drawable/bg_contenedor_borde">
 
         <TextView
             android:layout_width="match_parent"
