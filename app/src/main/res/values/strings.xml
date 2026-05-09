@@ -10,11 +10,18 @@ btn_ para Button
     <string name="app_name">Mobile_club_deportivo</string>
 
     <!-- PANTALLA LOGIN -->
-    <string name="login_tv_bienvenida">Bienvenido a la app móvil del club deportivo</string>
+    <string name="login_tv_bienvenida">Bienvenido a la app móvil del Club Deportivo</string>
     <string name="login_tv_usuario">Usuario</string>
     <string name="login_tv_clave">Contraseña</string>
     <string name="login_et_hint_usuario">Ingrese su usuario</string>
     <string name="login_et_hint_clave">Ingrese su contraseña</string>
     <string name="login_btn_login">Login</string>
+
+    <!-- PANTALLA MENÚ PRINCIPAL -->
+    <string name="main_tv_bienvenida">Menú Principal</string>
+    <string name="main_btn_registrar">Registrar Cliente</string>
+    <string name="main_btn_cobro">Generar Cobro</string>
+    <string name="main_btn_gestionar">Gestionar</string>
+    <string name="main_btn_logout">Cerrar Sesión</string>
 
 </resources>
