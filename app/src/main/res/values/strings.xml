@@ -8,6 +8,12 @@ btn_ para Button
 <resources>
     <!-- GLOBAL -->
     <string name="app_name">Mobile_club_deportivo</string>
+    <string name="global_registrar">Registrar Cliente</string>
+    <string name="global_cobro">Generar Cobro</string>
+    <string name="global_gestionar">Gestionar</string>
+    <string name="global_nombre_usuario">Nombre de Usuario</string>
+    <string name="global_socio">Socio</string>
+    <string name="global_no_socio">No Socio</string>
 
     <!-- PANTALLA LOGIN -->
     <string name="login_tv_bienvenida">Bienvenido a la app móvil del Club Deportivo</string>
@@ -19,9 +25,18 @@ btn_ para Button
 
     <!-- PANTALLA MENÚ PRINCIPAL -->
     <string name="main_tv_bienvenida">Menú Principal</string>
-    <string name="main_btn_registrar">Registrar Cliente</string>
-    <string name="main_btn_cobro">Generar Cobro</string>
-    <string name="main_btn_gestionar">Gestionar</string>
     <string name="main_btn_logout">Cerrar Sesión</string>
-
+    
+    <!-- PANTALLA REGISTRAR CLIENTE -->
+    <string name="register_tv_nombre_apellido">Nombre y apellido</string>
+    <string name="register_tv_dni">DNI / Documento</string>
+    <string name="register_tv_numero_telefono">Número de teléfono</string>
+    <string name="register_tv_email">Email</string>
+    <string name="register_tv_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="register_tv_apto_fisico">¿Tiene apto físico vigente?</string>
+    <string name="register_et_hint_nombre_apellido">Ingrese nombre y apellido</string>
+    <string name="register_et_hint_dni">Ingrese número de documento</string>
+    <string name="register_et_hint_numero_telefono">Ingrese número de teléfono</string>
+    <string name="register_et_hint_email">Ingrese email</string>
+    <string name="register_btn_registrar">Registrar</string>
 </resources>
