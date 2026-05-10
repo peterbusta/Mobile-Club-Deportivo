@@ -39,4 +39,28 @@ btn_ para Button
     <string name="register_et_hint_numero_telefono">Ingrese número de teléfono</string>
     <string name="register_et_hint_email">Ingrese email</string>
     <string name="register_btn_registrar">Registrar</string>
+
+    <!-- PANTALLA GESTIONAR -->
+    <string name="manage_btn_deudores">Deudores</string>
+    <string name="manage_btn_listado">Listado</string>
+    <string name="manage_tv_deudores_hoy">Socios con deuda hoy</string>
+    <string name="manage_tv_dni">DNI</string>
+    <string name="manage_tv_tel">Tel</string>
+    <string name="manage_tv_numero_socio">N° socio</string>
+    <string name="manage_btn_cobrar">Cobrar</string>
+    <string name="manage_tv_deuda">Deuda</string>
+    <string name="manage_tv_fecha_nacimiento">Fec. nac</string>
+    <string name="manage_btn_carnet">Carnet</string>
+
+    <!-- PANTALLA GENERAR COBRO -->
+    <string name="payment_et_hint_buscar_cliente">Buscar cliente por DNI</string>
+    <string name="payment_tv_advertencia">Ingrese un DNI para cargar las opciones de cobro</string>
+    <string name="payment_tv_nombre">Nombre del cliente</string>
+    <string name="payment_tv_estado">Estado</string>
+    <string name="payment_btn_medio_pago">Medio de pago</string>
+    <string name="payment_btn_actividad">Actividad</string>
+    <string name="payment_btn_cantidad_cuotas">Cantidad de cuotas</string>
+    <string name="payment_tv_monto">Monto</string>
+    <string name="payment_et_hint_valor_pesos">Valor en pesos</string>
+    <string name="payment_btn_comprobante">Descargar comprobante</string>
 </resources>
