@@ -1,8 +1,9 @@
 <!--
 ABREVIATURAS
-tv_ para TextView (Etiquetas de texto).
-et_ para EditText (Campos donde el usuario escribe).
+tv_ para TextView
+et_ para EditText
 btn_ para Button
+cd_ para Content Description (Descripciones de accesibilidad).
 -->
 
 <resources>
@@ -14,7 +15,9 @@ btn_ para Button
     <string name="global_nombre_usuario">Nombre de Usuario</string>
     <string name="global_socio">Socio</string>
     <string name="global_no_socio">No Socio</string>
-
+    <!-- Content Description -->
+    <string name="global_cd_back">Volver atrás</string>
+    <string name="global_cd_apt_fisico">Apto físico</string>
     <!-- PANTALLA LOGIN -->
     <string name="login_tv_bienvenida">Bienvenido a la app móvil del Club Deportivo</string>
     <string name="login_tv_usuario">Usuario</string>
@@ -38,6 +41,7 @@ btn_ para Button
     <string name="register_et_hint_dni">Ingrese número de documento</string>
     <string name="register_et_hint_numero_telefono">Ingrese número de teléfono</string>
     <string name="register_et_hint_email">Ingrese email</string>
+    <string name="register_et_hint_fecha_nacimiento">DD/MM/YYYY</string>
     <string name="register_btn_registrar">Registrar</string>
 
     <!-- PANTALLA GESTIONAR -->
